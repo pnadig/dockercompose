@@ -3,4 +3,5 @@
 */var/*
 ./mongodb/data/*
 **/data
+**/data/db
 **/var
