@@ -2,6 +2,10 @@
 */data/*
 */var/*
 ./mongodb/data/*
-**/data
+**/data/*
 **/data/db
-**/var
+**/var/*
+**/bin/*
+**/db/*
+**/tmp/*
+
